@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int a=6;
+int b;
+b=--a;
+printf ("pragytajain\n");
+printf("%d\n",b);
+printf("%d\n",a);
+return 0;
+}
