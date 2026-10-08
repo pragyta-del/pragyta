@@ -1,8 +1,9 @@
 #include<stdio.h>
 int main()
 {
-int a;
-int b;
+printf("pragytajain");
+int a=8;
+int b=7;
 int c;
 c=a*b;
 printf("%d",c);
