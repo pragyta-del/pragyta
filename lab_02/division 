@@ -2,8 +2,8 @@
 int main ()
 {
 int a=9, b=18, c;
-c= b÷a;
-printf("pragytajain")
+c= b/a;
+printf("pragytajain");
 printf("%d", c);
 return 0;
 }
